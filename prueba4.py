@@ -1,0 +1,2 @@
+def cakdkd(list):
+    pass
